@@ -234,7 +234,7 @@ export class CronGenComponent {
             hideWeeklyTab: false,
             hideMonthlyTab: false,
             hideYearlyTab: false,
-            hideAdvancedTab: true,
+            hideAdvancedTab: false,
             use24HourTime: false,
             hideSeconds: false
         }, options);
